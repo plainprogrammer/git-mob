@@ -1,0 +1,5 @@
+---
+name: git-mob
+version: "0.1"
+author: James Thompson <james@thomps.onl>
+about: makes mob programming easier with Git
